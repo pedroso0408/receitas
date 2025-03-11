@@ -1,12 +1,33 @@
- .titulo{
-    background-color: chocolate;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 10PX;
- }
+.titulo{
+  background-color: chocolate;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10PX;
+}
 
- .caracteristicas{
-    text-align: center;
+.caracteristicas{
+  text-align: center;
 
- }
+}
+.ingredientes h3{
+  text-align: center;
+  font-size: 22px;
+}
+.ingredientes ul{
+  margin-left: 45%;
+  font-weight: bold;
+
+}
+.mododopreparo  h3{
+  text-align: center;
+  font-size: 22px;
+}
+.mododopreparo ol{
+  margin-left: 45%;
+  font-weight: bold;
+
+}
+.segundareceita a{
+  width: 200px;
+}

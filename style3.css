@@ -1,0 +1,33 @@
+.titulo h1{
+    background-color: darkorange;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10PX;
+  }
+  
+  .caracteristicas{
+    text-align: center;
+  
+  }
+  .ingredientes h3{
+    text-align: center;
+    font-size: 22px;
+  }
+  .ingredientes ul{
+    margin-left: 40%;
+    font-weight: bold;
+  
+  }
+  .mododopreparo  h3{
+    text-align: center;
+    font-size: 22px;
+  }
+  .mododopreparo ol{
+    margin-left: 40%;
+    font-weight: bold;
+  
+  }
+  .img{
+    margin-left: 20%;
+  }
